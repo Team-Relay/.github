@@ -15,8 +15,7 @@
 
 **[Launch the working demo](https://hemogrid-eight.vercel.app/login)** · **[Judge's quick guide](https://github.com/Team-Relay/hemo-grid-frontend/blob/main/docs/JUDGE_START_HERE.md)** · [Frontend](https://github.com/Team-Relay/hemo-grid-frontend) · [Backend](https://github.com/Team-Relay/hemo-grid-backend)
 
-**No registration required. Select a demo role and click Continue to workspace. The demonstration email and password are already filled in. Do not enter your personal credentials.** Choose **Hospital**, **Blood bank** or **Platform admin**. The synthetic email and password are **prefilled**. Click **Continue to workspace**; do not use your personal credentials.
-
+**No registration required. Select a demo role and click Continue to workspace. The demonstration email and password are already filled in. Do not enter your personal credentials.** Choose **Hospital**, **Blood bank** or **Platform admin**. The synthetic email and password are **prefilled**.
 <a href="https://hemogrid-eight.vercel.app/login">
   <img src="https://raw.githubusercontent.com/Team-Relay/hemo-grid-frontend/main/public/judges/mission-control.png" alt="Actual HemoGrid Network Mission Control dashboard displaying critical requests, dispatch decision evidence, and the joint-planner entry point" width="920" />
 </a>
